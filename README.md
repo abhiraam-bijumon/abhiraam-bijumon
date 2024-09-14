@@ -5,6 +5,7 @@
 - 📫 How to reach me abhiraambijumon@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a very young coder
+- 😎 Please Follow Me on every platform Thanks
 
 <!---
 abhiraam-bijumon/abhiraam-bijumon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
